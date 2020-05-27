@@ -20,6 +20,7 @@ cp -R Appearence/Flat-Remix-GTK-Blue-Dark/ ~/.themes/
 
 Go to https://github.com/vinceliuice/Tela-icon-theme
 
+
 # Gnome Tweaks
 
 ## Apperance
