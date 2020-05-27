@@ -5,6 +5,7 @@ sudo apt-get install curl
 sudo apt-get install git
 sudo apt install ubuntu-restricted-extras
 sudo apt install flameshot
+sudo apt install variety
 ```
 
 
