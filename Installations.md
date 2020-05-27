@@ -6,6 +6,8 @@ sudo apt-get install git
 sudo apt install ubuntu-restricted-extras
 sudo apt install flameshot
 sudo apt install variety
+sudo apt-get install terminator
+sudo apt-get install vim
 ```
 
 
@@ -40,5 +42,22 @@ sudo apt-get install typora
 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+```
+
+
+
+# OhMyZSH
+
+```bash
+sudo apt-get install zsh
+chsh -s $(which zsh)
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone https://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+git clone https://github.com/zsh-users/zsh-syntax-highlighting $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+git clone https://github.com/romkatv/powerlevel10k $ZSH_CUSTOM/themes/powerlevel10k
+
+cp .zshrc ~/
+cp .p10k.zsh ~/
+
 ```
 
