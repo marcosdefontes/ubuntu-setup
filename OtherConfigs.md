@@ -14,3 +14,14 @@ Cmnd_Alias      COMMANDS = /etc/init.d/php7.2-fpm, /bin/chown, /bin/chmod, /usr/
 USER ALL=NOPASSWD: COMMANDS
 ```
 
+
+
+# Aliases
+
+```bash
+bash <(curl -Ls get.dannyb.co/alf/setup)
+alf connect <your github user>
+alf download
+source ~/.bash_aliases
+```
+

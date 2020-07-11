@@ -35,7 +35,7 @@ Go to https://github.com/vinceliuice/Tela-icon-theme
 
 - [Chrome Extension](https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep?hl=pt-BR)
 - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/)
-- [Unite](https://extensions.gnome.org/extension/1287/unite/)
 - [User themes](https://extensions.gnome.org/extension/19/user-themes/)
 - [System Monitor](https://extensions.gnome.org/extension/120/system-monitor/)
+- [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator)
 
