@@ -61,3 +61,32 @@ cp .p10k.zsh ~/
 
 ```
 
+
+
+# Xmind
+
+Download at: https://www.xmind.net/xmind8-pro/
+
+Install dependencies:
+
+- [libicu60_60.2-6ubuntu1_amd64.deb](http://launchpadlibrarian.net/370057411/libicu60_60.2-6ubuntu1_amd64.deb)
+- [libjavascriptcoregtk-1.0-0_2.4.11-4_amd64.deb](http://launchpadlibrarian.net/372800071/libjavascriptcoregtk-1.0-0_2.4.11-4_amd64.deb)
+- [libwebkitgtk-1.0-0_2.4.11-4_amd64.deb](http://launchpadlibrarian.net/372800074/libwebkitgtk-1.0-0_2.4.11-4_amd64.deb)
+
+https://paste.ubuntu.com/p/4JVdbn8Fk6/
+
+
+
+# Snap Apps
+
+```bash
+sudo snap install code
+sudo snap install dbeaver
+sudo snap install drawio
+sudo snap install flokk
+sudo snap install photogimp
+sudo snap install spotify
+sudo snap install tela
+sudo snap install whatsdesk
+```
+
